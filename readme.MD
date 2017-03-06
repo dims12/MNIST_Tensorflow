@@ -1,0 +1,1 @@
+Simplest model to train MNIST from TF documentation
